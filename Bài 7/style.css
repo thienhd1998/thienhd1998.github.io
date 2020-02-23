@@ -1,0 +1,27 @@
+h2 {
+  color: #ff00ac;
+}
+.wrapper-content {
+  display: flex;
+  justify-content: center;
+}
+.information {
+  margin-left: 30px;
+}
+.title {
+  background-color: #ff00ac;
+  color: #fff;
+}
+.intro ul li {
+  list-style-type: square;
+}
+.contact ul li {
+  list-style-type: circle;
+}
+hr {
+  margin-left: 25px;
+}
+p{
+  background-color: pink;
+  margin-left: 25px;
+}

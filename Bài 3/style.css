@@ -1,0 +1,12 @@
+body {
+  background-color: #A06D21;
+  background-image: url(images/bai3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+h2 {
+  color: #FFCC00;
+}
+p {
+  color: #fff;
+}

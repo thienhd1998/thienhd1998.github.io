@@ -1,0 +1,15 @@
+h2 {
+  color: orange;
+    border: 3px double;
+}
+.first-letter {
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}
+.mark1 {
+  color: red;
+}
+.mark2 {
+  background-color: yellow;
+}

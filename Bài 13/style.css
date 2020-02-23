@@ -1,0 +1,41 @@
+div {
+  max-width: 700px;
+    border: 1px solid aliceblue;
+    margin: 60px auto;
+    background: aliceblue;
+}
+h1 {
+  color: red;
+}
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  min-width: 450px;
+}
+td {
+  padding: 10px 0;
+}
+table, th, td {
+  border: 1px solid #fff;
+}
+.have-border {
+  margin: 0 auto;
+    border: 1px solid rebeccapurple;
+    max-width: 300px;
+    padding: 20px 0 10px 0;
+    position: relative;
+}
+.have-border input {
+  width: 50px;
+}
+.have-border p {
+  background: aliceblue;
+    width: 50%;
+    padding: 0 0 0 10px;
+    margin-left: 3px;
+    position: absolute;
+    top: -25px;
+}
+.ml-25 {
+  margin-left: 25px;
+}

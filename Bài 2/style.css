@@ -1,0 +1,18 @@
+h1 {
+  color: #006600;
+}
+h2 {
+  color: #0000FF;
+}
+.title {
+  color: #FF3399;
+  font-size: 20px;
+  background-color: #FECFFD;
+}
+.content {
+  background-color: #FFFFCC;
+  padding: 20px 0;
+}
+hr {
+  width: 15%;
+}

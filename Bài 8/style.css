@@ -1,0 +1,22 @@
+body {
+  background-color: #FFEDCA;
+}
+h2 {
+  color: #CC6600;
+}
+.wrapper-content {
+  display: flex;
+  justify-content: center;
+}
+.information {
+  margin-left: 30px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 5px 20px;
+}

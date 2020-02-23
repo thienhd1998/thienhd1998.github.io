@@ -1,0 +1,37 @@
+table {
+  border-collapse: collapse;
+  max-width: 600px;
+    margin: 30px auto;
+
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+img {
+  max-width: 100px;
+}
+p {
+  color: red;
+  position: relative;
+  padding-left: 14px;
+}
+p::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 7px;
+  height: 9px;
+  border: 1px solid red;
+}
+.div1 {
+  width: 49%;
+  float: left;
+  border-right: 1px solid #000;
+}
+.div2 {
+  width: 50%;
+  float: right;
+}
